@@ -1,6 +1,6 @@
 # UDF for heating and evaporation of an n-dodecane droplet
 
-ANYSYS Fluent UDF for defining the heat and mass transport for n-dodecane droplet.
+ANSYS Fluent UDF for defining the heat and mass transport for n-dodecane droplet.
 Has been tested with ANSYS Fluent 17.2.
 
 Physical properties are taken from:
